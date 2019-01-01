@@ -8,7 +8,6 @@ A Clojure library designed to communicate with [https://github.com/Kokosapiens/w
 ```clojure
 (ns example
     (:require [clj-kwallet :refer :all]))
-```
 
 (def account (create-account))
 
